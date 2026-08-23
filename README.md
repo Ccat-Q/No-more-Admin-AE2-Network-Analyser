@@ -1,5 +1,7 @@
 # No More Admin AE2 Network Analyser
 
+![No More Admin AE2 Network Analyser logo](src/main/resources/logo.png)
+
 A small NeoForge 1.21.1 compatibility mod that allows non-operator players to
 use the tick rate profiler from AE2 Network Analyser.
 
