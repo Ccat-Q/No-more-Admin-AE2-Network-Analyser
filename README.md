@@ -8,7 +8,7 @@ use the tick rate profiler from AE2 Network Analyser.
 ## Requirements
 
 - Minecraft 1.21.1
-- NeoForge 21.1.1 or newer for Minecraft 1.21.1
+- NeoForge 21.1.243 or newer for Minecraft 1.21.1
 - AE2 Network Analyser `1.21-2.1.5-neoforge`
 - Install this mod and AE2 Network Analyser on both the dedicated server and
   every connecting client.
